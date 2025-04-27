@@ -1,0 +1,16 @@
+name: mec4131z-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - ipywidgets
+  - pypsa
+  - numpy
+  - pandas
+  - plotly
+  - highs
+  - matplotlib
+  - pip
+  - openpyxl 
+  - pip:
+      - jupyterlab
