@@ -12,5 +12,8 @@ dependencies:
   - matplotlib
   - pip
   - openpyxl 
+  - folium
+  - geopandas
   - pip:
       - jupyterlab
+      - "pypsa[excel]"
